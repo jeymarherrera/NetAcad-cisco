@@ -1,2 +1,13 @@
-# Laboratorios Realizados en el Curso de Redes de Computadoras
-Laboratorios de aprendizaje en Networking Academy de Cisco (NetAcad) prácticas propuestas para el aprendizaje de Redes en el Desarrollo de Software haciendo uso de la herramienta Cisco Packet Tracer. 
+# Networking Academy - Cisco Digital Learning
+- Cisco: https://www.cisco.com/
+# Networking Essentials - Redes de Computadoras para Desarrollo de Software
+- Proyectos Desarrollados: <br>
+Próximamente...
+
+# PCAP - Programming Essentials in Python       
+- Proyectos Desarrollados: <br>
+Próximamente...
+
+# JavaScript Essentials 1 (JSE)
+- Proyectos Desarrollados: <br>
+Próximamente...
